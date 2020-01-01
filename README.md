@@ -1,9 +1,9 @@
 ----
-# Welcome to RANGE! #
+# Welcome to NCL! #
 
 ----
-## What is RANGE? ##
-RANGE is a cryptocurrency to make the world a better place.
+## What is NCL? ##
+NCL is a cryptocurrency to make the world a better place.
 
 ----
 ## Get it! ##
