@@ -17,7 +17,7 @@ NCL is a cryptocurrency to make the world a better place.
 ----
 ## Run it! ##
 
-  - click on the RANGE icon, or start from the command line:
+  - click on the NCL icon, or start from the command line:
   - Unix: `./start.sh`
   - Window: `run.bat`
 
@@ -34,7 +34,7 @@ NCL is a cryptocurrency to make the world a better place.
 ## Troubleshooting the NRS (RANGE Reference Software) ##
 
   - How to Stop the NRS Server?
-    - click on RANGE Stop icon, or run `./stop.sh`
+    - click on NCL Stop icon, or run `./stop.sh`
     - or if started from command line, ctrl+c or close the console window
 
   - UI Errors or Stacktraces?
