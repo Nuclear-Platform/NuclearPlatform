@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/sandoche/nxt-clone-starter
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "v1.11.13"]
+	remote = origin
+	merge = refs/heads/v1.11.13
+[remote "nuclearplatform"]
+	url = https://github.com/nuclearplatform/NuclearPlatform
+	fetch = +refs/heads/*:refs/remotes/nuclearplatform/*
+[gui]
+	wmstate = normal
+	geometry = 893x435+295+121 175 196
