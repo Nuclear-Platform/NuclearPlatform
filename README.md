@@ -31,7 +31,7 @@ NCL is a cryptocurrency to make the world a better place.
   - you need jdk-8 as well
 
 ----
-## Troubleshooting the NRS (RANGE Reference Software) ##
+## Troubleshooting the NRS (NCL Reference Software) ##
 
   - How to Stop the NRS Server?
     - click on NCL Stop icon, or run `./stop.sh`
