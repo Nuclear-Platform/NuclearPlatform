@@ -3,7 +3,12 @@
 
 ----
 ## What is NCL? ##
-NCL is a cryptocurrency to make the world a better place.
+
+Nuclear Platform is the future of funding that is built on top of the Nuclear blockchain. Our mission is to provide people with a universal currency. The vision of NUCLEAR PLATFORM is to be a platform that can provide investment convenience for everyone.To achieve that goals NUCLEAR PLATFORM become trusted bridge between the project and investors.
+
+We are optimistic that NUCLEAR PLATFORM will be a new breakthrough in the 21st century in finance and investment system. To support this goal, NUCLEAR PLATFORM created utility coin as bridge between the company and investors (contract) or as proof of transactions,payments and withdrawals of capital by project from investors. The Coin is built on the Nuclear Blockchain Network and will be known as NUCLEAR (NCL) under the auspices of the NUCLEAR PLATFORM.
+
+Besides having a Strong Treasury, and Experience Team, the other critical aspect is ensuring the funds are utilized most efficiently – generating great value in return for the funds spent. In Nuclear Platform, We strive to encourage strong economic growth in return for what we spend on those endeavors. Our approach is that every dollar invested into our ecosystem, must generate more value to investors for each one they invest..
 
 ----
 ## Get it! ##
